@@ -47,13 +47,13 @@ Usman
 
 Caden
 
-Selena
+Selena - ![alt text](selenaPIC.jpg)   **add me at selena.cho@utah.edu :) <3**
 
 Nooshin : I am Ph.D. student in Mechanical Engineering :)
 
 Katharine
 
-Selena
+Selena - *There's two of me* **OOPS**
 
 Cecilia - I like photograpy
 
