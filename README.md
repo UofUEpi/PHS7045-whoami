@@ -45,7 +45,7 @@ Jacob
 
 Usman
 
-Caden
+[**@stewacad000**](https://github.com/stewacad000) I have a big fluffy white dog named Geo, and we have howling conversations
 
 Selena - ![alt text](selenaPIC.jpg)   **add me at selena.cho@utah.edu :) <3**
 
