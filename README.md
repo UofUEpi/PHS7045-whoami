@@ -29,7 +29,7 @@ Name!
  
 Brian (https://github.com/reblocke) My first program language was C but I couldn't write a functioning program now if my life dependended on it. 
 
-Kia
+Kia @ Github.com/PianoDevOps
 
 Bradley -- In college I double-majored in Studio Art and Biology.
 
