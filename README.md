@@ -43,7 +43,7 @@ Usman
 
 Caden
 
-Selena - **hehehehehehehe**
+Selena - **add me at selena.cho@utah.edu :) <3**
 
 Nooshin
 
