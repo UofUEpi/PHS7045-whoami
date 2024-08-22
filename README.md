@@ -25,30 +25,29 @@ username!
 
 # PHS7045 Advanced Programming Students (Fall 2024)
 
-- JULIA
+- [@bohmanjulia](https://github.com/bohmanjulia) 2nd year biostatistics PhD student interested in mathematical modelling of nosocomial transmission and deep learning methods for risk prediction in cancer patients.
 
 - JONATHAN
 
-- CHRISTIAN
+- CHRISTIAN (https://github.com/christian-dalton/) I used to Pole Vault, but now that I am in my old man era, I'm learning how to play Tennis.
 
 - LINGYI
 
-- SOPHIE
+- [**@SophieHuebler**](https://github.com/s-huebler) I like rollerskating.
 
-- YONGJUN
+- [**@yongjun-l**] (https://github.com/yongjun-l) I moved to the U.S. 10 years ago. I used to play electric cello in a (amateur) rock band! 
 
-- SIMA
+- SIMA [@sima-njf](https://github.com/sima-njf) I am sima, the second year Ph.D. student in biostatistics. I am interested in Machine learning methods, time series modeling, clinical trials and methods for handeling the missing data. 
 
 - BLESSING-ATTA
 
-- MICHAEL
+- MICHAEL -(https://mthroolin.github.io) I'm Michael. Here is a link to my portfolio.
 
-- GEORGE
+- [@gvegayon](https://github.com/gvegayon) I am chilean, I play the guitar and sing, I like biking (MTB). I have two kids and a dog.
 
 - YINGJIA I'm Yingjia and the Y is silent. I'm learning baking and garderning and hope I can do better in them at the semester end. Nice to meet all of you at this class! Excited to learn more about programming!!!
 
 - YIDAN
-
 
 # PHS7045 Advanced Programming Students (Spring 2023)
 
