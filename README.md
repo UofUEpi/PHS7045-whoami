@@ -33,7 +33,7 @@ username!
 
 - LINGYI
 
-- SOPHIE
+- [**@SophieHuebler**](https://github.com/s-huebler) I like rollerskating.
 
 - [**@yongjun-l**] (https://github.com/yongjun-l) I moved to the U.S. 10 years ago. I used to play electric cello in a (amateur) rock band! 
 
