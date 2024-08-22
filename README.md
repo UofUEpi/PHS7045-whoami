@@ -45,7 +45,7 @@ username!
 
 - GEORGE
 
-- YINGJIA
+- YINGJIA I'm Yingjia and the Y is silent. I'm learning baking and garderning and hope I can do better in them at the semester end. Nice to meet all of you at this class! Excited to learn more about programming!!!
 
 - YIDAN
 
