@@ -37,7 +37,7 @@ username!
 
 - YONGJUN
 
-- SIMA
+- SIMA [@sima-njf](https://github.com/sima-njf) I am sima, the second year Ph.D. student in biostatistics. I am interested in Machine learning methods, time series modeling, clinical trials and methods for handeling the missing data. 
 
 - BLESSING-ATTA
 
