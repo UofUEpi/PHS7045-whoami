@@ -25,7 +25,7 @@ username!
 
 # PHS7045 Advanced Programming Students (Fall 2024)
 
-- JULIA
+- [@bohmanjulia](https://github.com/bohmanjulia) 2nd year biostatistics PhD student interested in mathematical modelling of nosocomial transmission and deep learning methods for risk prediction in cancer patients.
 
 - JONATHAN
 
