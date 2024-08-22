@@ -41,7 +41,7 @@ username!
 
 - BLESSING-ATTA
 
-- MICHAEL
+- MICHAEL -(https://mthroolin.github.io) I'm Michael. Here is a link to my portfolio.
 
 - [@gvegayon](https://github.com/gvegayon) I am chilean, I play the guitar and sing, I like biking (MTB). I have two kids and a dog.
 
