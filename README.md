@@ -35,7 +35,7 @@ username!
 
 - SOPHIE
 
-- YONGJUN
+- [**@yongjun-l**] (https://github.com/yongjun-l) I moved to the U.S. 10 years ago. I used to play electric cello in a (amateur) rock band! 
 
 - SIMA [@sima-njf](https://github.com/sima-njf) I am sima, the second year Ph.D. student in biostatistics. I am interested in Machine learning methods, time series modeling, clinical trials and methods for handeling the missing data. 
 
