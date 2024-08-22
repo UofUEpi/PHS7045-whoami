@@ -35,7 +35,7 @@ username!
 
 - SOPHIE
 
-- YONGJUN
+- [**@yongjun-l**] (https://github.com/yongjun-l) I moved to the U.S. 10 years ago. I used to play electric cello in a (amateur) rock band! 
 
 - SIMA
 
