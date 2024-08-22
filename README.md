@@ -39,7 +39,7 @@ username!
 
 - SIMA [@sima-njf](https://github.com/sima-njf) I am sima, the second year Ph.D. student in biostatistics. I am interested in Machine learning methods, time series modeling, clinical trials and methods for handeling the missing data. 
 
-- BLESSING-ATTA
+- BLESSING - Hi! I like braiding hairand I like to cook. 
 
 - MICHAEL -(https://mthroolin.github.io) I'm Michael. Here is a link to my portfolio.
 
