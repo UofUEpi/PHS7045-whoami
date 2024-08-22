@@ -33,7 +33,7 @@ username!
 
 - LINGYI
 
-- SOPHIE
+- [**@SophieHuebler**](https://github.com/s-huebler) I like rollerskating.
 
 - YONGJUN
 
