@@ -27,7 +27,7 @@ username!
 
 - JULIA
 
-- JONATHAN
+- [@chipmanj](https://github.com/chipmanj) JONATHAN ... Biostatistician, Design of Clinical Trials, Comparative Effectiveness, Husband, Father, Survivor Fan
 
 - CHRISTIAN
 
