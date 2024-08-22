@@ -41,7 +41,7 @@ username!
 
 - BLESSING-ATTA
 
-- MICHAEL
+- MICHAEL -(https://mthroolin.github.io) I'm Michael. Here is a link to my portfolio.
 
 - GEORGE
 
