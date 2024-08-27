@@ -45,7 +45,7 @@ username!
 
 - [@gvegayon](https://github.com/gvegayon) I am chilean, I play the guitar and sing, I like biking (MTB). I have two kids and a dog.
 
-- YINGJIA
+- YINGJIA I'm Yingjia and the Y is silent. I'm learning baking and garderning and hope I can do better in them at the semester end. Nice to meet all of you at this class! Excited to learn more about programming!!!
 
 - [**@yidanzh0518**](https://github.com/yidanzh0518) I am excited to learn from the class
 
