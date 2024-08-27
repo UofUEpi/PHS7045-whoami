@@ -27,7 +27,7 @@ username!
 
 - [@bohmanjulia](https://github.com/bohmanjulia) 2nd year biostatistics PhD student interested in mathematical modelling of nosocomial transmission and deep learning methods for risk prediction in cancer patients.
 
-- JONATHAN
+- [@chipmanj](https://github.com/chipmanj) JONATHAN ... Biostatistician, Design of Clinical Trials, Comparative Effectiveness, Husband, Father, Survivor Fan
 
 - CHRISTIAN (https://github.com/christian-dalton/) I used to Pole Vault, but now that I am in my old man era, I'm learning how to play Tennis.
 
